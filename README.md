@@ -8,7 +8,7 @@
 - 📫 How to reach me: 
   - LinkedIn: [Hitesh Goel](https://www.linkedin.com/in/hitesh-goel-6537621bb/)
   - Instagram: [hitesh.goel05](https://www.instagram.com/hitesh.goel05/)
-  - Twitter: [hitesh](https://twitter.com/mezzala_10)
+  <!-- - Twitter: [hitesh](https://twitter.com/mezzala_10) -->
 - 😄 Pronouns: he/him.
 <!-- - ⚡ Fun fact: ... -->
 
