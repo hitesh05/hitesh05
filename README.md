@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning and web dev.
+- 🔭 I’m currently working in Computer Vision and 3D modelling.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
